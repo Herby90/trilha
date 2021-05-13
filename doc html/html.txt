@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>trilha rj</title>
+    <link rel="stylesheet" href="css/font-awesome.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="center">
+            <div class="logo"><a href="#">Trilhas</a></div>
+            <nav class="desktop">
+                <ul>
+                    <li><a href="home">Home</a></li>
+                    <li><a href="passeio">Passeio</a></li>
+                    <li><a href="contato">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+<section id="home" class="banner">
+    <div class="layer">
+        <div class="center">
+                <div class="home">
+                    <h1>Já trilhou hoje?</h1>
+                    <p>Aos trilheiros de plantão, conheçam a cidade maravilhosa de um outro ângulo!!! 
+                        Veja alguns de nossos principais roteiros. <span>#vamoquevamo</span></p>
+                </div>
+                <div class="formulario">
+                    <form action="" method="post" id="cadastrar">
+                    <div id="sucesso" class="sucesso">Formulário enviado com sucesso.</div>
+                    <div id="erro" class="erro">Sinto muito, a sua mensagem não foi enviada. Tente em outro instante!</div>
+                    <input type="text" name="nome" id="nome" placeholder="Coloque o seu nome...">
+                    <input type="text" name="email" id="email" placeholder="Coloque o seu email...">
+                    <input type="text" name="telefone" id="telefone" placeholder="Coloque o seu número...">
+                    <select name="passeio" id="passeio">
+                        <option value="0">Escolha o seu passeio...</option>
+                        <option value="1">Pedra Bonita</option>
+                        <option value="2">Costão de Itaquatiara</option>
+                        <option value="3">Pedra do Telegráfo</option>
+                        <option value="4">Pico da Tijuca Mirim</option>
+                        <option value="5">Praia do Perigoso</option>
+                        <option value="6">Morro da Urca</option>
+                    </select>
+                    <input type="submit" value="Cadastrar">                    
+                </form>
+            </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="Passeio" class="servicos">
+    <section class="servicos-title">
+        <div class="center">
+            <h1>Passeios</h1>
+        </div>
+    </section>
+    <div class="center">
+        <div class="box-planos-single">
+            <div class="box-palnos-wraper">
+                <h2>Pedra Bonita</h2>
+                <div class="img-trilha">
+                    <img src="img/pedrabonita.jpeg" alt="trilha">
+                </div>
+        <div class="pontos-plano">
+            <p><i class="fa fa-check-square"></i> Floresta da Tijuca</p>
+            <p><i class="fa fa-check-square"></i> Tempo: 25-35 minutos</p>
+            <p><i class="fa fa-check-square"></i> Guia: Felipe</p>
+            <p><i class="fa fa-check-square"></i> Dia/Horário: Sábado - 10h</p>
+        </div>        
+                <div class="Preco">
+                    <h2><a href="#">Quero participar</a></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="center">
+        <div class="box-planos-single">
+            <div class="box-palnos-wraper">
+                <h2>Pedra Bonita</h2>
+                <div class="img-trilha">
+                    <img src="img/pedrabonita.jpeg" alt="trilha">
+                </div>
+        <div class="pontos-plano">
+            <p><i class="fa fa-check-square"></i> Floresta da Tijuca</p>
+            <p><i class="fa fa-check-square"></i> Tempo: 25-35 minutos</p>
+            <p><i class="fa fa-check-square"></i> Guia: Felipe</p>
+            <p><i class="fa fa-check-square"></i> Dia/Horário: Sábado - 10h</p>
+        </div>        
+                <div class="Preco">
+                    <h2><a href="#">Quero participar</a></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="center">
+        <div class="box-planos-single">
+            <div class="box-palnos-wraper">
+                <h2>Pedra Bonita</h2>
+                <div class="img-trilha">
+                    <img src="img/pedrabonita.jpeg" alt="trilha">
+                </div>
+        <div class="pontos-plano">
+            <p><i class="fa fa-check-square"></i> Floresta da Tijuca</p>
+            <p><i class="fa fa-check-square"></i> Tempo: 25-35 minutos</p>
+            <p><i class="fa fa-check-square"></i> Guia: Felipe</p>
+            <p><i class="fa fa-check-square"></i> Dia/Horário: Sábado - 10h</p>
+        </div>        
+                <div class="Preco">
+                    <h2><a href="#">Quero participar</a></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="center">
+        <div class="box-planos-single">
+            <div class="box-palnos-wraper">
+                <h2>Pedra Bonita</h2>
+                <div class="img-trilha">
+                    <img src="img/pedrabonita.jpeg" alt="trilha">
+                </div>
+        <div class="pontos-plano">
+            <p><i class="fa fa-check-square"></i> Floresta da Tijuca</p>
+            <p><i class="fa fa-check-square"></i> Tempo: 25-35 minutos</p>
+            <p><i class="fa fa-check-square"></i> Guia: Felipe</p>
+            <p><i class="fa fa-check-square"></i> Dia/Horário: Sábado - 10h</p>
+        </div>        
+                <div class="Preco">
+                    <h2><a href="#">Quero participar</a></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="center">
+        <div class="box-planos-single">
+            <div class="box-palnos-wraper">
+                <h2>Pedra Bonita</h2>
+                <div class="img-trilha">
+                    <img src="img/pedrabonita.jpeg" alt="trilha">
+                </div>
+        <div class="pontos-plano">
+            <p><i class="fa fa-check-square"></i> Floresta da Tijuca</p>
+            <p><i class="fa fa-check-square"></i> Tempo: 25-35 minutos</p>
+            <p><i class="fa fa-check-square"></i> Guia: Felipe</p>
+            <p><i class="fa fa-check-square"></i> Dia/Horário: Sábado - 10h</p>
+        </div>        
+                <div class="Preco">
+                    <h2><a href="#">Quero participar</a></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="center">
+        <div class="box-planos-single">
+            <div class="box-palnos-wraper">
+                <h2>Pedra Bonita</h2>
+                <div class="img-trilha">
+                    <img src="img/pedrabonita.jpeg" alt="trilha">
+                </div>
+        <div class="pontos-plano">
+            <p><i class="fa fa-check-square"></i> Floresta da Tijuca</p>
+            <p><i class="fa fa-check-square"></i> Tempo: 25-35 minutos</p>
+            <p><i class="fa fa-check-square"></i> Guia: Felipe</p>
+            <p><i class="fa fa-check-square"></i> Dia/Horário: Sábado - 10h</p>
+        </div>        
+                <div class="Preco">
+                    <h2><a href="#">Quero participar</a></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>   
+</body>
+</html>
